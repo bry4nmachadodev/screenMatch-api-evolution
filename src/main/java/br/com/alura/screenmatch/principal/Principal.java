@@ -42,6 +42,7 @@ public class Principal {
                     7 - Buscar séries por categoria
                     8 - Filtrar séries 
                     9 - Buscar episódios por trecho
+                    10 - Top 5 episódios por série
                                     
                     0 - Sair                                 
                     """;
